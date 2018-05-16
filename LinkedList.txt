@@ -63,7 +63,16 @@ class SinglyLinkedList
 		SinglyLinkedListNode previousNode=null;
 		SinglyLinkedListNode currentNode=null;
 		
-		currentNode=head;
+		if(this.head==null)
+			return;
+		
+		if(this.head.data==nodeData)
+		 {
+		 	this.head==this.head.next;
+			if(this.head==null)
+				this.tail=null;
+			return;
+		 }
 		
 		while(currentNode!=null)
 		{
