@@ -1,0 +1,13 @@
+I am Chandra babu (citizen), having master degree in computer applications, currently working for Bank of Tokyo, as a senior application developer.
+
+I have written java code and python code, but not very much. My proficiency in C# programming not just the basic technologies but all also the whole supporting infrastructure. So, I claim, I am really good in ASP.NET, MVC, WPF,HTML,JAVA SCRIPT, DESIGN Patterns, and SQL SERVER.
+
+Along the way, I have worn the hats of an enterprise application developer, open source contributor, architect, product owner, and an occasional blogger.
+
+In addition to that, I am holding a certificate from Microsoft (MCP). 
+
+The enclosed resume summarizes my background and experience in the above areas. Should your company need and my experience proves to be a good match, I would welcome an opportunity for further collaboration.
+
+
+Regards
+Chandra
