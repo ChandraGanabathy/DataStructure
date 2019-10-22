@@ -1,6 +1,3 @@
-3:00 PM
-
-
 Access Modifier in Typescript.
 Everything in class is public if not specified, everything in a module is private unless export keyword used.
 
