@@ -1,10 +1,3 @@
-a Promise is eager, whereas an Observable is lazy,
-a Promise is always asynchronous, while an Observable can be either synchronous or asynchronous,
-a Promise can provide a single value, whereas an Observable is a stream of values (from 0 to multiple values),
-you can apply RxJS operators to an Observable to get a new tailored stream.
-
-Access Modifier in Typescript.
-Everything in class is public if not specified, everything in a module is private unless export keyword used.
 
 sortArray(arr, key) {
 arr.sort((a, b) => { return b[key] - a[key]; });
